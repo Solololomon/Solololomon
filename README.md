@@ -11,7 +11,7 @@ Currently working with Xander Talent as a Data Engineering Consultant
 <p align="center">
 <img src="https://user-images.githubusercontent.com/114672947/205023463-21b44110-938f-43f2-9ffc-b8482faa9355.png">
 </p>
-<h5 align="center">
+<h4 align="center">
 Consistently seeking out new challenges, and always striving to improve!
 </p>
 
