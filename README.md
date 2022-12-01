@@ -14,6 +14,7 @@ Currently working with Xander Talent as a Data Engineering Consultant
 <h4 align="center">
 Consistently seeking out new challenges, and always striving to improve!
 </p>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -34,13 +35,14 @@ Consistently seeking out new challenges, and always striving to improve!
 <a href="https://seaborn.pydata.org/" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/114672947/205035140-4987ca94-4573-4f4b-85a0-7e64f195813a.png" width="40" height="40"/> </a> 
 <a href="https://www.kaggle.com/" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" width="40" height="40"/> </a> 
 </p>
-
+<br>
 
 - :computer: Python-based Data Engineer
 - :star2: Physics Graduate
 - :guitar: Freelance Musician
 - 📫 Connect with me on LinkedIn [![image](https://user-images.githubusercontent.com/114672947/205027114-3382da4a-6fc1-4888-a886-772074d530d2.png)](https://www.linkedin.com/in/solomonw27)
 - ⚡ Fun fact: I lived in Guatemala for 6 months, Pregúntame algo!
+<br>
 
 [![Solomon's Stats](https://github-readme-stats.vercel.app/api?username=solololomon&theme=prussian&show_icons=true)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=solololomon&theme=prussian)](https://git.io/streak-stats)
