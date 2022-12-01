@@ -5,7 +5,7 @@ Welcome 👋
 I'm Solomon Williams 
 </p>
 <h3 align="center">
-Currently working with Xander Talent as a Data Engineering Consultant.
+Currently working with Xander Talent as a Data Engineering Consultant
 </p>
 
 <p align="center">
