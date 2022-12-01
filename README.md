@@ -41,3 +41,7 @@ Consistently seeking out new challenges, and always striving to improve!
 - :guitar: Freelance Musician
 - 📫 Connect with me on LinkedIn [![image](https://user-images.githubusercontent.com/114672947/205027114-3382da4a-6fc1-4888-a886-772074d530d2.png)](https://www.linkedin.com/in/solomonw27)
 - ⚡ Fun fact: I lived in Guatemala for 6 months, Pregúntame algo!
+
+[![Solomon's Stats](https://github-readme-stats.vercel.app/api?username=solololomon&theme=prussian&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=solololomon&theme=prussian)](https://git.io/streak-stats)
+
