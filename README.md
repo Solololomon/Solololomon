@@ -44,6 +44,6 @@ Consistently seeking out new challenges, and always striving to improve!
 - ⚡ Fun fact: I lived in Guatemala for 6 months, Pregúntame algo!
 <br>
 
-[![Solomon's Stats](https://github-readme-stats.vercel.app/api?username=solololomon&theme=prussian&show_icons=true)
+![Solomon's Stats](https://github-readme-stats.vercel.app/api?username=solololomon&theme=prussian&show_icons=true)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=solololomon&theme=prussian)](https://git.io/streak-stats)
 
