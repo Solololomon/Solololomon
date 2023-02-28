@@ -18,6 +18,7 @@ Consistently seeking out new challenges, and always striving to improve!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+<a href="https://www.quantexa.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/114672947/221860641-0db7b946-50c3-43b9-96b9-e0968e5581ec.png" alt="quantexa" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://jupyter.org/" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="40" height="40"/> </a> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
@@ -37,6 +38,7 @@ Consistently seeking out new challenges, and always striving to improve!
 </p>
 <br>
 
+- :dart: Quantexa Certified Scoring Engineer
 - :computer: Python-based Data Engineer
 - :star2: Physics Graduate
 - :guitar: Freelance Musician
